@@ -1,5 +1,5 @@
 {
-"name": "fileuploadbehavior",
+"name": "usercode/fileuploadbehavior",
 "description": "File Upload Behavior",
 "require":{
 	"php":">=5.3.0"
